@@ -11,6 +11,7 @@ gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 # Use device to handle authentication
 gem 'devise'
+gem 'stock_quote'
 # Use pry instead of IRB for the rails console
 gem 'devise-bootstrap-views'
 gem 'pry-rails'

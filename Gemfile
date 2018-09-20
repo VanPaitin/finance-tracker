@@ -12,6 +12,7 @@ gem 'sass-rails', '~> 5.0'
 # Use device to handle authentication
 gem 'devise'
 gem 'stock_quote'
+gem 'font-awesome-rails'
 # Use pry instead of IRB for the rails console
 gem 'devise-bootstrap-views'
 gem 'pry-rails'
